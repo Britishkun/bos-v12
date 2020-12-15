@@ -1,0 +1,27 @@
+{
+  "name": "",
+  "version": "0.0.1",
+  "description": "",
+  "main": "shinoa.js",
+  "scripts": {
+    "start": "node shinoa.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.2",
+    "sqlite3": "^5.0.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "repository": {
+    "url": ""
+  },
+  "license": "MIT",
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
